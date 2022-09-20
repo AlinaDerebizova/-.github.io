@@ -1,2 +1,2 @@
-# alinaderebizova.github.io
+# Алина Деребизова
 Мой первый сайт
